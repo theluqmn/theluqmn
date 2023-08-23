@@ -1,4 +1,4 @@
-#### A little background of myself
+### A little background of myself
 
 I am currently a secondary school student, who has a passion for innovative, improving myself and tech.
 Am one of those guys that others call a hacker because I use a terminal once in a while...
@@ -7,7 +7,7 @@ Prior to Summer 2023, I wasn't that active in coding - most of my focus were tow
 dose of news. Nowadays I skip through some dozens of big thick textbooks hoping whatever I'm reading gets inside my brain
 (it works most of the time) and do some coding in my free time - though quite limited.
 
-#### Programming Languages
+### Programming Languages
 
 9 year old me started coding Scratch, with exposure from the Science and Robotics subject in my school. I quickly
 fell in love with the idea of creating anything I'd like, then keep on trying until it works as intended - no matter
