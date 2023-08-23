@@ -8,10 +8,9 @@ dose of news. Nowadays I skip through some dozens of big thick textbooks hoping 
 (it works most of the time) and do some coding in my free time - though quite limited.
 
 # Programming languages
-
 Python, Lua, some Javascript and HTML, Scratch (if it counts lol)
 
-# Plans for the future
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanity)](https://github.com/anuraghazra/github-readme-stats)
 
 I haven't got much planned, but if time allows me to, I would like to pursue programming more and expand
 into other languages, maybe Java, C++ and C in the next year or so. Other than coding, I'll continue
