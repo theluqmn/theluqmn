@@ -8,7 +8,7 @@ dose of news. Nowadays I skip through some dozens of big thick textbooks hoping 
 (it works most of the time) and do some coding in my free time - though quite limited.
 
 # Programming languages
-Python, C, JavaScript, some Lua, HTML + CSS. So far specialising in **Discord bot development** using discord.py, random things with C, some JavaScript projects (RESTful API),and a ton of other stuff made using Python.
+Python, C, JavaScript, some Lua, HTML + CSS and recently, Ruby. So far specialising in **Discord bot development** using pycord, random things with C and Ruby, some JavaScript projects (RESTful API),and a ton of other stuff made using Python.
 
 ## Top languages in my GitHub
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanity)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,6 +16,6 @@ Python, C, JavaScript, some Lua, HTML + CSS. So far specialising in **Discord bo
 ## What am I learning next?
 - Improve my existing skills and knowledge related to backend development using the RESTful API
 - Work on my JavaScript more
-- Discord.js to create more feature-rich and advanced Discord bots
-- Java
-- C++
+- Discord.js to create more feature-rich and advanced Discord bot
+- Ruby on Rails
+- Flutter
