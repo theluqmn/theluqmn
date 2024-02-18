@@ -1,5 +1,7 @@
 # A little background of myself
 
+Call me Luq!
+
 I am a 15 year old Malaysian-born secondary student that enjoys writing code. My interest in coding began in grade three when my Computer Science
 teacher, *Mustafa*, taught the class the basics of Scratch. Since then, I spent a bit of my free time writing code in a regular basis - despite
 being raised in a very strict family.
@@ -13,9 +15,11 @@ Character-wise, I am very positive, somewhat charismatic, ambitious, very confid
 so I get to bring a larger positive impact to the world, maybe my enthusiasm and character is just contagious and "fills the room".
 
 ## My profile
+
 Frequently, I only use **Python** and **JavaScript**. I love designing things but not developing frontend-focused applications, so I have little experience writing frontend code but I do know a bit of **HTML** and **CSS**. Most of my Python projects consists of random vanity things, and **Discord bots**.
 
 ## So, what is next?
+
 As of 2nd February 2024, my plan is to further sharpen my programming skills by working on more projects, and learn new tools/languages such as **Rust**, **Solid.js**. Cybersecurity, Data Science and Backend Development does interest me though, and I look forward towards learning those subjects as well. 
 
 Acedamic-wise, I will tackle Algebra 1, maybe learn Linear-Algebra too since it's essential for machine learning and quantum computing.
@@ -23,4 +27,5 @@ Otherwise, mostly business-related things like accounting, funding, stock market
 I have a decent idea that I think is worth taking to the next level - it is overdue for me to finally work on my startup. Looking forward towards what the future has in me!
 
 ## Top languages in my GitHub
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanity)](https://github.com/anuraghazra/github-readme-stats)
