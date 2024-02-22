@@ -16,7 +16,7 @@ Some of the projects that I have worked on includes *Discord* bots, and vanity s
 
 As of 18th February 2024, my plan is to continue pursuit of programming - fine-tuning my skills, work on a few more projects, and to explore more of how businesses grow, economies develop and the analytics behind it. Do whatever it takes to make it to University of Florida (so I get to study with my dear bestie), then work as a start-up consultant at the US East Coast area.
 
-Expect me to work on projects related to finance, data science and games - Roblox particularly.
+Expect me to work on projects related to finance, data science and games - Roblox and Kaboom.js particularly.
 
 ## Top languages in my GitHub
 
