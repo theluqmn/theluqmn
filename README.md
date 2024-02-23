@@ -1,6 +1,6 @@
 # A little background of myself
 
-Hi, I am Luqman Yazrie - you can call me **Luq** (a nickname coined by a dear bestie of mine). Born in Malaysia in 2009, I am known for my exceptional creativity, dedication, craftsmanship and leadership skills. First introduced to the world of programming by my dear computer science teacher, *Mustafa*, back in grade 3, in love with it ever since.
+Hi, I am Luqman - you can call me **Luq** (a nickname coined by a dear bestie of mine). Born in Malaysia in 2009, I am known for my exceptional creativity, dedication, craftsmanship and leadership skills. First introduced to the world of programming by my dear computer science teacher, *Mustafa*, back in grade 3, in love with it ever since.
 
 Raised by a housewife (with a computer science degree) and an entreprenuerial dad (specialises in IT, networking, finance and tech in general), I grew up participating in various competitions, watching prototypes go into production, working on Excel spreadsheets, and occasionally, attending meetings.
 
