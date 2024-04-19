@@ -20,4 +20,4 @@ Expect me to work on projects related to finance, data science and games - Roblo
 
 ## Top languages in my GitHub
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanity)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanually)](https://github.com/anuraghazra/github-readme-stats)
