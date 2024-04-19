@@ -1,22 +1,18 @@
-# A little background of myself
+Let's make this quick
 
-Hi, I am Luqman - you can call me **Luq** (a nickname coined by a dear bestie of mine). Born in Malaysia in 2009, I am known for my exceptional creativity, dedication, craftsmanship and leadership skills. First introduced to the world of programming by my dear computer science teacher, *Mustafa*, back in grade 3, in love with it ever since.
+# An Introduction to Myself
 
-Raised by a housewife (with a computer science degree) and an entreprenuerial dad (specialises in IT, networking, finance and tech in general), I grew up participating in various competitions, watching prototypes go into production, working on Excel spreadsheets, and occasionally, attending meetings.
+My name is Luqman, also addressable as Luq. Born and raised in Malaysia by a housewife and tech entreprenuer. Friends call me "the next Elon Musk" or "CEO guy", which I believe sums up who I am. My qualities include an exceptional level of dedication and leadership skills, exquisite craftmanship, and an approachable and friendly character. I happen to know enough things to be able to at least start a conversation with the average folk.
 
-My interests are in a wide range of fields, from consumer technology, software engineering, to finance, economics and business development. Honorable mentions include architecture and product design - if I get bored, sad or feeling down, I will grab several sheets of paper and begin drawing. Most of the things that I love to draw includes UI concepts, vehicles, buildings and man-made objects.
+Not currently in a relationship.
 
-## My profile
+## What I do
 
-The languages I use frequently are **Python**, and **JavaScript**. I am somewhat familiar with other languages too, such as **Ruby**, **C**, basic **HTML** and **CSS**. Most of the projects that I work on are more focused towards the backend rather than the frontend (UI, etc), however I am gifted with exceptional creativity hence designing user interfaces/experiences are something that I am happy to do.
+Some programming, I have experience building Discord bots. I would not say I am an expert, but I do have enough to at least learn something, and apply it to my projects. I also draw (mostly buildings, and objects), write (songs, letters and if necessary, plays) and craft.
 
-Some of the projects that I have worked on includes *Discord* bots, and vanity side-projects (mostly calculators for some reason).
+## The Future
 
-## So.. what is next?
-
-As of 18th February 2024, my plan is to continue pursuit of programming - fine-tuning my skills, work on a few more projects, and to explore more of how businesses grow, economies develop and the analytics behind it. Do whatever it takes to make it to University of Florida (so I get to study with my dear bestie), then work as a start-up consultant at the US East Coast area.
-
-Expect me to work on projects related to finance, data science and games - Roblox and Kaboom.js particularly.
+I want to be the valedictorian for my high school, then make it to University of Florida to study Computer Science as my major, Economics and Statistics as my minor - and play for the football team (assuming I keep up with my exercises for the next 2-3 years). After graduating, get a job as a consultant at Mckinsey and Company, stay for a few years and when the time is right, found a company. Once I feel comfortable and have the ability to, get married and have kids. Become a Fortune 500 CEO. Make it to the billionaires list. Serve god.
 
 ## Top languages in my GitHub
 
