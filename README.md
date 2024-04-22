@@ -4,7 +4,7 @@ Let's make this quick
 
 My name is Luqman, also addressable as Luq. Born and raised in Malaysia by a housewife and tech entreprenuer. Friends call me "the next Elon Musk" or "CEO guy", which I believe sums up who I am. My qualities include an exceptional level of dedication and leadership skills, exquisite craftmanship, and an approachable and friendly character. I happen to know enough things to be able to at least start a conversation with the average folk.
 
-A great man, not currently in a relationship. I am picky.
+Not currently in a relationship. I am picky.
 
 ## What I do
 
