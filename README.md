@@ -2,25 +2,32 @@ Let's make this quick
 
 # An Introduction to Myself
 
-My name is **Luqman**, also addressable as **Luq**. Born and raised in Malaysia by a housewife and startup founder, tech firm chief executive. Friends call me "the next Elon Musk" or "CEO guy", which I believe sums up who I am quite well. My qualities include an exceptional level of dedication, creativity and leadership skills, exquisite craftmanship, and an approachable and friendly character. I happen to know enough things to be able to at least start a conversation with the average folk.
+My name is **Luqman**, also addressable as **Luq**. Born and raised in Malaysia by a housewife and startup founder, tech firm chief executive. Friends call me "the next Elon Musk" or "CEO guy", which I believe sums up who I am quite well. My qualities include an exceptional level of dedication, creativity and leadership skills, exquisite craftmanship, and an approachable and friendly character. I happen to know enough things to be able to at least start a conversation with the average folk. 
 
-Not in a relationship.
+| What I Do | The Interests |
+|-----------|---------------|
+| Programming is a big thing but not everything. I write in JavaScript, Python, Ruby, and some C. The other things I do are drawing (objects, buildings, landscapes), writing (non-fiction, lyrics and plays), some DJ-ing, public speaking and track runs. | My interests are vast, and consumes most of my free time. This includes, amongst the obvious, **programming** and **tech**, others are **science**, **economics**, **business development**, **geopolitics**, **history**, **semiconductor technologies** to list a few. |
 
-## What I do, and The Interests
+Tons of things. Not currently in a relationship.
 
-Programming is a big thing but not everything. I write in JavaScript, Python, Ruby, and some C. The other things I do are drawing (objects, buildings, landscapes), writing (non-fiction, lyrics and plays), some DJ-ing, public speaking and track runs.
+## The Present
 
-My interests are vast, and consumes most of my time. This includes, amongst the obvious, **programming** and **tech**, others are **science**, **economics**, **business development**, **geopolitics**, **history**, **semiconductor technologies** to list a few.
 
-Tons of things.
+| What I'm Working On | What I'm Learning |
+|----------------------------|-------------------|
+| [CMS](https://github.com/luqmanually/CMS) - Based on the Kaboom.js game library, it runs in your browser | Semiconductor and SoC technologies |
+| [Competence](https://github.com/luqmanually/Competence) - A Discord bot I made for fun | Quantum Computing, concepts and programming with IBM's [Qiskit](https://github.com/Qiskit/qiskit) |
+| A Scratch comeback (soon) | Blockchain, and crypto |
+| Blog on GitHub | Accounting |
+
 
 ## The Future
 
-In the near future, I would like to continue my pursuit in garthering knowledge across multiple fields, while specialising in **corporate/business** and **tech**. Some items in my list includes quantum computing, blockchain technology and cryptography. Programming wise, I would like to apply what I learned and gathered into projects which I hope brings benefit and some fun on the table, for me, and everyone.
+| Near  | Far  |
+|-------|------|
+| Continue my pursuit in learning everything I can whilst I still have the time and ability to do so. Improve my skillset, learn C++, Rust and a couple JS libraries. Develop some games, things that I want to build. Practice, practice, practice. Master advanced mathematics, which I believe will be very useful in my next few years, acadamically and professionally. Learn more economics and business management in general. There is always room for more, improvement and achievements. | Be the valedictorian of my highschool, spend a few months travelling around the world and networking, become an undergraduate at **University of Florida**, where I plan on taking a major in *Computer Science*, and minors in *Economics* and *Statistics*. After graduating, get a job at Mckinsey and Company and stay for a few years. Either start my own companies or help run existing ones. Become a Fortune 500 CEO. Get married and have kids when the time comes. Serve god. |
 
-I want to be the valedictorian for my high school, then make it to **University of Florida** to study **Computer Science** as my major, **Economics** and **Statistics** as my minor - and play for the football team (assuming I keep up with my exercises for the next 2-3 years). Post graduation, get a job as a consultant at Mckinsey and Company, stay for a few years and when the time is right, start a company. Once I feel comfortable and have the ability to, get married and have kids. Become a Fortune 500 CEO. Make it to the billionaires list. Serve god.
-
-Make it big.
+Regardless, make it big.
 
 ## Top languages in my GitHub
 
