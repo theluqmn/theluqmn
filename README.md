@@ -6,7 +6,7 @@ My name is **Luqman**, also addressable as **Luq**. Born and raised in Malaysia 
 
 | What I Do | The Interests |
 |-----------|---------------|
-| Programming is a big thing but not everything. I write in **JavaScript**, **Python**, **Ruby**, and some **C**. The other things I do are drawing (objects, buildings, landscapes), writing (non-fiction, lyrics and plays), some DJ-ing, public speaking and track runs. | My interests are vast, and consumes most of my free time. This includes, amongst the obvious, **programming** and **tech**, others are **science**, **economics**, **business development**, **geopolitics**, **history**, **semiconductor technologies** to list a few. |
+| Programming is a big thing but not everything. I write in **JavaScript**, **Python**, **Ruby**, and some **C**. The other things I do are **drawing** (objects, buildings, landscapes), **writing** (non-fiction, lyrics and plays), some DJ-ing, **public speaking** and **track runs**. | My interests are vast, and consumes most of my free time. This includes, amongst the obvious, **programming** and **tech**, others are **science**, **economics**, **business development**, **geopolitics**, **history**, **semiconductor technologies** to list a few. |
 
 Tons of things. Not currently in a relationship.
 
