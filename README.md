@@ -12,7 +12,6 @@ Tons of things. Not currently in a relationship.
 
 ## The Present
 
-
 | What I'm Working On | What I'm Learning |
 |----------------------------|-------------------|
 | [CMS](https://github.com/luqmanually/CMS) - Based on the Kaboom.js game library, it runs in your browser | Semiconductor and SoC technologies |
