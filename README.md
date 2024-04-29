@@ -16,8 +16,8 @@ Tons of things. Not currently in a relationship.
 |----------------------------|-------------------|
 | [CMS](https://github.com/luqmanually/CMS) - Based on the Kaboom.js game library, it runs in your browser | Semiconductor and SoC technologies |
 | [Competence](https://github.com/luqmanually/Competence) - A Discord bot I made for fun | Quantum Computing, concepts and programming with IBM's [Qiskit](https://github.com/Qiskit/qiskit) |
-| A Scratch comeback (soon) | Blockchain, and crypto |
-| Blog on GitHub | Accounting |
+| [Name Your Hamster](https://github.com/luqmanually/name-your-hamster) - Open-world, hamster game | Blockchain, and crypto |
+| Nightfall | Accounting |
 
 
 ## The Future
