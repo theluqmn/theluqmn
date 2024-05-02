@@ -14,18 +14,19 @@ Tons of things. Not currently in a relationship.
 
 | What I'm Working On | What I'm Learning |
 |----------------------------|-------------------|
-| [CMS](https://github.com/luqmanually/CMS) - Based on the Kaboom.js game library, it runs in your browser | Semiconductor and SoC technologies |
+| [CMS](https://github.com/luqmanually/CMS) - Based on the Kaboom.js game library, it runs in your browser | Silicon packaging and CPU technologies |
 | [Competence](https://github.com/luqmanually/Competence) - A Discord bot I made for fun | Quantum Computing, concepts and programming with IBM's [Qiskit](https://github.com/Qiskit/qiskit) |
-| [Name Your Hamster](https://github.com/luqmanually/name-your-hamster) - Open-world, hamster game |The [C](https://github.com/luqmanually/C) language with Caleb Curry's [playlist](https://youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2&si=WZCqeisgBVtKRn1W) |
-| [Nightfall](https://github.com/luqmanually/Nightfall) - Space civilisation game | Accounting |
+| [Name Your Hamster](https://github.com/luqmanually/name-your-hamster) - Open world hamster game | Some Rust and C |
+
+The things I work on and learn are diversified.
 
 ## The Future
 
 | Near  | Far  |
 |-------|------|
-| Continue my pursuit in learning everything I can whilst I still have the time and ability to do so. Improve my skillset, learn C++, Rust and a couple JS libraries. Develop some games, things that I want to build. Practice, practice, practice. Master advanced mathematics, which I believe will be very useful in my next few years, acadamically and professionally. Learn more economics and business management in general. There is always room for more, improvement and achievements. | Be the valedictorian of my highschool, spend a few months travelling around the world and networking, become an undergraduate at **University of Florida**, where I plan on taking a major in *Computer Science*, and minors in *Economics* and *Statistics*. After graduating, get a job at Mckinsey and Company and stay for a few years. Either start my own companies or help run existing ones. Become a Fortune 500 CEO. Get married and have kids when the time comes. Serve god. |
+| Continue my pursuit in learning everything I can whilst I still have the time and ability to do so. Improve my skillset, learn more **C**, **Rust**, and a couple libraries here and there. Develop some games, things that I want to build. Practice, practice, practice. Master advanced mathematics, which I believe will be very useful in my next few years, academically and professionally. Learn more economics and business management in general. There is always room for more, improvement and achievements. | Be the valedictorian of my highschool, spend a few months travelling around the world and networking, become an undergraduate at **University of Florida**, where I plan on taking a major in *Computer Science*, and minors in *Economics* and *Statistics*. After graduating, get a job at Mckinsey and Company and stay for a few years. Either start my own companies or help run existing ones. Become a Fortune 500 CEO. Get married and have kids when the time comes. Serve god. |
 
 Regardless, make it big.
 
-## Just need to keep this despite being out of place
+## 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanually&layout=compact&theme=github_dark&card_width=1050&langs_count=6)
