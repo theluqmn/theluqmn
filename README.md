@@ -28,4 +28,4 @@ Tons of things. Not currently in a relationship.
 Regardless, make it big.
 
 ## Just need to keep this despite being out of place
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanually&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanually&layout=compact&theme=github_dark&card_width=1050&langs_count=6)
