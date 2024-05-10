@@ -15,8 +15,8 @@ Tons of things. Not currently in a relationship.
 | What I'm Working On | What I'm Learning |
 |----------------------------|-------------------|
 | [CMS](https://github.com/luqmanually/CMS) - Based on the Kaboom.js game library, it runs in your browser | Silicon packaging and CPU technologies |
-| [Competence](https://github.com/luqmanually/Competence) - A Discord bot I made for fun | Quantum Computing, concepts and programming with IBM's [Qiskit](https://github.com/Qiskit/qiskit) |
-| [Name Your Hamster](https://github.com/luqmanually/name-your-hamster) - Open world hamster game | Some Rust and C |
+| [Personally Financing](https://github.com/luqmanually/Personally-Financing) - Personal finance game | Quantum Computing, concepts and programming with IBM's [Qiskit](https://github.com/Qiskit/qiskit) |
+| [Middleware](https://github.com/luqmanually/Middleware) - API gateway | Some Rust and C |
 
 The things I work on and learn are diversified.
 
