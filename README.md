@@ -16,7 +16,7 @@ Tons of things. Not currently in a relationship.
 |----------------------------|-------------------|
 | [CMS](https://github.com/luqmanually/CMS) - Based on the Kaboom.js game library, it runs in your browser | Silicon packaging and CPU technologies |
 | [Orca-NASM](https://github.com/luqmanually/Orca-NASM) - x86 Assembly-based CLI project | Quantum Computing, concepts and programming with IBM's [Qiskit](https://github.com/Qiskit/qiskit) |
-| [Middleware](https://github.com/luqmanually/Middleware) - API gateway | x86 ASM, some Rust |
+| Myself | x86 ASM, some Rust |
 
 The things I work on and learn are diversified.
 
