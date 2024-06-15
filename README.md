@@ -1,32 +1,29 @@
 Let's make this quick
 
-# An Introduction to Myself
+# An intro to myself
 
-My name is **Luqman**, also addressable as **Luq**. Born and raised in Malaysia by a housewife and startup founder, tech firm chief executive. Friends call me "the next Elon Musk" or "CEO guy", which I believe sums up who I am quite well. My qualities include an exceptional level of dedication, creativity and leadership skills, exquisite craftmanship, and an approachable and friendly character. I happen to know enough things to be able to at least start a conversation with the average folk. 
+A 15 year old with a burning passion towards the things I do. Born and raised in Malaysia by a tech entrepreneur and housewife with a CS degree. Asian parents. Apart from **programming**, my other passions/interests include **economics**, **geopolitics**, **business development**, **drawing**, **architecture**, and **writing**. I do not see much justifications to use my personal gadgets most of the time, in fact, my average screen time (phone) is around **1.5hrs** - during the weekends. I mostly consume content from my TV (I prefer the bigger screen). My laptop is used to do some reading online, write some code and play some games every once in a whie. Am not in a relationship.
 
-| What I Do | The Interests |
-|-----------|---------------|
-| Programming is a big thing but not everything. I write in **JavaScript**, **Python**, **Ruby**, and some **C**. The other things I do are **drawing** (objects, buildings, landscapes), **writing** (non-fiction, lyrics and plays), some DJ-ing, **public speaking** and **track runs**. | My interests are vast, and consumes most of my free time. This includes, amongst the obvious, **programming** and **tech**, others are **science**, **economics**, **business development**, **geopolitics**, **history**, **semiconductor technologies** to list a few. |
+Coding is and always will be just a **hobby**. It is something I enjoy and love doing, but **not** exactly what I will full-time or as a career. Useful, but not the main quest - however, I still spend effort and time working on these projects!
 
-Tons of things. Not currently in a relationship.
+My main quest is more **corporate**, **entreprenuerial** and **disruptive**. My things are problem-solving, tinkering and working out on things. I picked up coding because I get to create whatever I want (most of the time), and therefore, come up with my own solutions and offerings to certain issues/problems. Drawing is something I do at least 3x more than coding, because it happens to help me offload and bring whatever is in my head to the real world - organised.
 
-## The Present
+## Present
 
-| What I'm Working On | What I'm Learning |
-|----------------------------|-------------------|
-| [CMS](https://github.com/luqmanually/CMS) - Based on the Kaboom.js game library, it runs in your browser | Silicon packaging and CPU technologies |
-| [Orca-NASM](https://github.com/luqmanually/Orca-NASM) - x86 Assembly-based CLI project | Quantum Computing, concepts and programming with IBM's [Qiskit](https://github.com/Qiskit/qiskit) |
-| Myself | x86 ASM, some Rust |
+|Working on|Researching on|
+|--------------------|---------------------|
+| [Competence](https://github.com/luq-mn/Competence): Community economies, data, and currency - in one Discord bot | Quantum computing, for the era of quantum utility (the next data revolution) |
+| [CMS](https://github.com/luq-mn/CMS): Kaboom.js-based crypto mining sim game | Solidifying my mathematical skills |
 
-The things I work on and learn are diversified.
+As of whenever I last wrote this, its mostly academics - except for certain times (typically holidays).
 
-## The Future
+## Vision
 
-| Near  | Far  |
-|-------|------|
-| Continue my pursuit in learning everything I can whilst I still have the time and ability to do so. Improve my skillset, learn more **C**, **Rust**, and some libraries. Develop some games, things that I want to build. Practice and practice. Master advanced mathematics, which I believe will be very useful in my next few years, academically and professionally. Learn more economics and business management in general. There is always room for more, improvement and achievements. | Be the valedictorian of my highschool, spend a few months travelling around the world and networking, become an undergraduate at **University of Florida**, where I plan on taking a major in *Computer Science*, and minors in *Economics* and *Statistics*. After graduating, get a job at Mckinsey and Company and stay for a few years. Either start my own companies or help run existing ones. Become a Fortune 500 CEO. Get married and have kids when the time comes. Serve god. |
+|Short-term|Life|
+|----------|----|
+| Elevate my academics, score a perfect 10 A+ on my SPM. Study **Computer Science**, **Economics** and **Statistics** in higher-education, currently eyeing at *University of Florida* or *MIT* - depends on how athletic I end up becoming. Increase my stamina, build myself up a bit, and work on side projects! | Make it to the Forbes 30 Under 30 list, start at least one Fortune 500 company, and qualify for a Y Combinator accelerator program. On the personal side, its to get married, have kids, and afford to have whatever I want and most importantly, need. A holiday home by the fjords of Sweden! |
 
-Regardless, make it big.
+I want to create meaningful impacts, live an enjoyable life, love and be loved.
 
 ## 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luqmanually&layout=compact&theme=github_dark&card_width=1050&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luq-mn&layout=compact&theme=github_dark&card_width=1050&langs_count=6)
