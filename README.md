@@ -2,7 +2,7 @@ Let's make this quick
 
 # An intro to myself
 
-A 15 year old with a burning passion towards the things I do. Born and raised in Malaysia by a tech entrepreneur and housewife with a CS degree. Asian parents. Apart from **programming**, my other passions/interests include **economics**, **geopolitics**, **business development**, **drawing**, **architecture**, and **writing**. I do not see much justifications to use my personal gadgets most of the time, in fact, my average screen time (phone) is around **1.5hrs** - during the weekends. I mostly consume content from my TV (I prefer the bigger screen). My laptop is used to do some reading online, write some code and play some games every once in a whie. Am not in a relationship.
+A 15 year old with a burning passion towards the things I do. Born and raised in Malaysia by a tech entrepreneur and housewife with a CS degree. Asian parents. Apart from **programming**, my other passions/interests include **economics**, **geopolitics**, **business development**, **drawing**, **architecture**, and **writing**. Typically, I dont find much reason to use my personal gadgets - its more of a distraction really, and I rarely play video games.
 
 Coding is and always will be just a **hobby**. It is something I enjoy and love doing, but **not** exactly what I will full-time or as a career. Useful, but not the main quest - however, I still spend effort and time working on these projects!
 
@@ -25,5 +25,5 @@ As of whenever I last wrote this, its mostly academics - except for certain time
 
 I want to create meaningful impacts, live an enjoyable life, love and be loved.
 
-## 
+----
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luq-mn&layout=compact&theme=github_dark&card_width=1050&langs_count=6)
