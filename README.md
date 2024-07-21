@@ -27,4 +27,4 @@ As of whenever I last wrote this, its mostly academics - except for certain time
 I want to create meaningful impacts, live an enjoyable life, love and be loved.
 
 ----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luq-mn&layout=compact&theme=github_dark&card_width=1050&langs_count=9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luq-mn&layout=compact&theme=github_dark&card_width=1050&langs_count=8)
