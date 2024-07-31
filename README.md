@@ -12,9 +12,9 @@ My main quest is more **corporate**, **entreprenuerial** and **disruptive**. My 
 
 |Working on|Researching on|
 |--------------------|---------------------|
-| **[Competence](https://github.com/luq-mn/Competence)**: Community economies, data, and currency - in one Discord bot | Quantum computing, for the era of quantum utility (the next data revolution) |
-| **[Ardent](https://github.com/luq-mn/Ardent)**: The database with easiness that scales | Cybersecurity |
-| **[BitMiner](https://github.com/luq-mn/BitMiner)**: Kaboom.js-based crypto mining sim game, formally [CMS](https://github.com/luq-mn/CMS) | Solidifying my mathematical skills |
+| **[Opulance](https://github.com/luq-mn/Competence)**: Community economies, data, and currency - in one Discord bot | Quantum computing, for the era of quantum utility (the next data revolution) |
+| **[Assurance](https://github.com/luq-mn/Assurance)**: Community security, enforced fairly | Cybersecurity |
+| **[BitMiner](https://github.com/luq-mn/BitMiner)**: Kaboom.js-based crypto mining sim game, formerly [CMS](https://github.com/luq-mn/CMS) | Solidifying my mathematical skills |
 
 As of whenever I last wrote this, its mostly academics - except for certain times (typically holidays).
 
