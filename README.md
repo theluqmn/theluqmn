@@ -1,4 +1,4 @@
-**quick intro**: Programming for business, progress, and fun. Python, JavaScript, and Go.
+**quick intro**: Programming for business, progress, and fun.
 
 → [**theluqmn.github.io**](https://theluqmn.github.io)
 
