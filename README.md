@@ -1,4 +1,4 @@
-**quick intro**: Programming for business, progress, and fun.
+**quick intro**: coding for business, finance, fun
 
 → [**theluqmn.github.io**](https://theluqmn.github.io)
 
