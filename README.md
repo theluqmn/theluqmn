@@ -1,3 +1,5 @@
+![LA](https://github.com/user-attachments/assets/cf9af92a-f637-4694-8cb3-7a8db2021731)
+
 **quick intro**: coding for business, finance, fun
 
 → [**theluqmn.github.io**](https://theluqmn.github.io)
