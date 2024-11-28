@@ -6,4 +6,4 @@
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theluqmn&layout=compact&theme=github_dark&card_width=1050&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theluqmn&layout=compact&theme=graywhite&card_width=1050&langs_count=6)
