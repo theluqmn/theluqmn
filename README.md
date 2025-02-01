@@ -2,9 +2,9 @@
 
 **quick intro**: coding for fun, finance & business, and random stuff
 
-[**theluqmn.github.io**](https://theluqmn.github.io) - portfolio
+[**theluqmn.com**](https://theluqmn.com) - portfolio
 
-[**the revelations**](https://theluqmn.github.io/revelations) - my weekly newsletter for aspiring entrepreneurs, leaders, and curious individuals
+[**the revelations**](https://revelations.theluqmn.com) - my weekly newsletter for aspiring entrepreneurs, leaders, and curious individuals
 
 #
 
