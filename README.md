@@ -2,7 +2,7 @@ chief yapping officer, PhD in talking.
 
 visit [**theluqmn.com**](https://theluqmn.com), and also check out my weekly newsletter—the [**revelations**](https://revelations.theluqmn.com).
 
-I may be inactive sometimes to make room for academics and competitions.
+I may be inactive sometimes to make room for academics and competitions. Open for ideas and collaboration btw!
 
 #
 
