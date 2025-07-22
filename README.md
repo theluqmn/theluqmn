@@ -1,4 +1,4 @@
-chief yapping officer, PhD in talking.
+the renaissance man, chief yapping officer with a PhD in talking. Pushing myself to the limits, and changing every game i step into - using my skillset and resources, by working on projects and realising my ambitions.
 
 visit [**theluqmn.com**](https://theluqmn.com), and also check out my weekly newsletter—the [**revelations**](https://revelations.theluqmn.com).
 
