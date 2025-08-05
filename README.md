@@ -1,4 +1,4 @@
-chief yapping officer with a PhD in talking. founder, [kotadame](https://kotadame.my).
+chief yapping officer with a PhD in talking - founder, [kotadame](https://kotadame.my).
 
 Pushing myself to the limits, and changing every game i step into - using my skillset and resources, by working on projects and realising my ambitions.
 
