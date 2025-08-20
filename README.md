@@ -2,7 +2,7 @@ chief yapping officer with a PhD in talking - founder, [kotadame](https://kotada
 
 Pushing myself to the limits, and changing every game i step into - using my skillset and resources, by working on projects and realising my ambitions.
 
-visit [**theluqmn.com**](https://theluqmn.com) to know more about me, and also check out my weekly newsletter - the [**revelations**](https://revelations.theluqmn.com).
+visit [**theluqmn.com**](https://theluqmn.com), check out my [blog](https://blog.theluqmn.com), and also check out my weekly newsletter - the [**revelations**](https://revelations.theluqmn.com).
 
 #
 
