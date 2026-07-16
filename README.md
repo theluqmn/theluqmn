@@ -1,11 +1,5 @@
-chief yapping officer with a PhD in talking - founder, [kotadame](https://kotadame.my).
+I write code for fun. 
 
-Pushing myself to the limits, and changing every game i step into - using my skillset and resources, by working on projects and realising my ambitions.
+{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
 
-visit [**theluqmn.com**](https://theluqmn.com), check out my [blog](https://blog.theluqmn.com), and also check out my weekly newsletter - the [**revelations**](https://revelations.theluqmn.com).
-
-#
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theluqmn&layout=compact&theme=graywhite&card_width=1050&langs_count=8)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theluqmn&theme=graywhite&card_width=1050&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Hackatime Top Languages](https://github-readme-stats.hackclub.dev/api/wakatime?username=10320&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
