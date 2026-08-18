@@ -1,1 +1,6 @@
-![Hackatime Top Languages](https://github-readme-stats.hackclub.dev/api/wakatime?username=10320&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
+Hackatime (365 days)
+
+<a href="https://heatmap.shymike.dev?id=theluqmn&timezone=Asia%2FKuala_Lumpur&labels=true&theme=dark&standalone=true" title="Click to view detailed data for each day!">
+    <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=theluqmn&timezone=Asia%2FKuala_Lumpur&labels=true&theme=dark">
+</a>
